@@ -142,6 +142,5 @@ g++ src/*.cpp glad/glad.c -o main1 -Iinclude -Isrc -Iglad -lglfw3 -lopengl32 -lg
 * Este proyecto no usa herramientas automáticas de modelado ni generación de código.
 * El modelo fue escaneado localmente y procesado manualmente.
 
-```
 
 
