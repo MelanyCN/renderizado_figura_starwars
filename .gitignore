@@ -1,0 +1,32 @@
+# Archivos temporales
+*.o
+*.obj
+*.exe
+*.out
+*.log
+*.sdf
+
+# Archivos de compilación
+main1
+build/
+bin/
+CMakeFiles/
+Makefile.in
+CMakeCache.txt
+cmake_install.cmake
+
+# OpenCV cache
+opencv_cache.*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor
+.vscode/
+*.swp
+
+# Textura cargada
+star-war/*.bmp
+star-war/*.rge
+*.xml
